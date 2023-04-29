@@ -1,0 +1,41 @@
+html:
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Проєкт</title>
+</head>
+<body>
+  <div class="el2">
+    <img src="./images/c63ec85c10a9b1c2ff00ccb952.jpg"></img></div>
+  <div class="el1">
+    <img src="./images/week7_1100.jpg"></img></div>
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+css:
+p{
+    font-family: 'Poltawski Nowy', serif;
+}
+.el1{
+   transform: rotate(90deg)
+
+}
+.el2{
+    color: white;
+}
