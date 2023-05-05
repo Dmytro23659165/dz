@@ -1,0 +1,252 @@
+INDEX HTML:
+
+
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Д/З</title>
+</head>
+<body>
+  <div>
+    <a href class="el1">MoGo</a>
+    <a href class="el2">ABOUT</a>
+    <a href>SERVICE</a>
+    <a href>WORK</a>
+    <a href>BLOG</a>
+    <a href>CONTACT</a>
+  </div>
+  <div>
+    <article class="el3">
+      We work with
+    </article>
+  </div>
+  <div>
+    <article class="el4">
+      Amazing Services
+    </article>
+  </div>
+  <div>
+    <img class="el5" src=".\images/Vector.png"></img>
+    <article class="el6">photography</article>
+  </div>
+  <div>
+    <img class="el8" src=".\images\Vectordsfghsdhf.png"></img>
+    <article class="el9">photography</article>
+  <div class="el10">
+    <article>Lorem ipsum dolor sit amet, consectetur</article>
+    <article>adipiscing elit, sed do eiusmod tempor.</article>
+  </div>
+  <ul>
+    <div class="el7">
+      <article>Lorem ipsum dolor sit amet, consectetur</article>
+      <article>adipiscing elit, sed do eiusmod tempor.</article>
+    </div>
+  </ul>
+  <div>
+    <img class="el11" src=".\images\Vectorqwergsdfges.png"></img>
+    <article class="el12">photography</article>
+    <div class="el13">
+      <article>Lorem ipsum dolor sit amet, consectetur</article>
+      <article>adipiscing elit, sed do eiusmod tempor.</article>
+    </div>
+  </div>
+
+
+
+
+
+  <div>
+    <img class="el15" src=".\images\line icons.png"></img>
+    <article class="el16">photography</article>
+  </div>
+  <div>
+    <img class="el18" src=".\images\home 1.png"></img>
+    <article class="el19">photography</article>
+  <div class="el20">
+    <article>Lorem ipsum dolor sit amet, consectetur</article>
+    <article>adipiscing elit, sed do eiusmod tempor.</article>
+  </div>
+  <ul>
+    <div class="el17">
+      <article>Lorem ipsum dolor sit amet, consectetur</article>
+      <article>adipiscing elit, sed do eiusmod tempor.</article>
+    </div>
+  </ul>
+  <div>
+    <img class="el21" src=".\images/digital-marketing 1.png"></img>
+    <article class="el22">photography</article>
+    <div class="el23">
+      <article>Lorem ipsum dolor sit amet, consectetur</article>
+      <article>adipiscing elit, sed do eiusmod tempor.</article>
+    </div>
+  </div>
+  <div>
+    <article class="el24">
+      Who we are
+    </article>
+  </div>
+  <div>
+    <article class="el25">
+      Meet our team
+    </article>
+  </div>
+  <div>
+    <article class="el26">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </article>
+    <article class="el27">
+      Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    </article>
+  </div>
+  <div>
+    <img class="el28" src=".\images\first-man 1.png"></img>
+    <article class="31">Matthew Dix</article>
+    <article class="32"></article>
+    <img class="el29" src=".\images\second-man 1.png"></img>
+    <article class="33">Christopher Campbell</article>
+    <article class="34"></article>
+    <img class="el30" src=".\images\third-man 1.png"></img>
+    <article class="35">Michael Fertig </article>
+    <article class="36"></article>
+  </div>
+  
+</body>
+</html>
+
+
+
+CSS:
+
+
+
+CSS:
+
+
+p{
+    font-family: 'Poltawski Nowy', serif;
+}
+.el1{
+    margin: 60px;
+    margin-inline: 100px;
+    color:rgb(0, 155, 155);
+    font-size: 25px;
+}
+.el2{
+    margin-left: 290px;
+    margin-top: 25px;
+    font-size: 18px;
+    color: rgb(255, 72, 0);
+}
+.el3{
+    margin-left: 445px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.el4{
+    margin-left: 405px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.el5{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.el6{
+    margin-left: 150px;
+    margin-top: -42px; 
+}
+.el7{
+    margin-left: 60px;
+    margin-top: -52px;
+}
+.el8{
+    margin-left: 380px;
+    margin-top: -40px;
+}
+.el9{
+    margin-left: 430px;
+    margin-top: -34px;
+}
+.el10{
+    margin-left: 380px;
+    margin-top: 30px;
+}
+.el11{
+    margin-top: -119px;
+    margin-left: 660px;
+}  
+.el12{
+    margin-left: 710px;
+    margin-top: -119px;
+}
+.el13{
+    margin-left: 660px;
+    margin-top: 31px;
+}
+
+
+
+.el15{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.el16{
+    margin-left: 150px;
+    margin-top: -42px; 
+}
+.el17{
+    margin-left: 60px;
+    margin-top: -52px;
+}
+.el18{
+    margin-left: 380px;
+    margin-top: -40px;
+}
+.el19{
+    margin-left: 430px;
+    margin-top: -34px;
+}
+.el20{
+    margin-left: 380px;
+    margin-top: 30px;
+}
+.el21{
+    margin-top: -40px;
+    margin-left: 660px;
+}  
+.el22{
+    margin-left: 710px;
+    margin-top: -119px;
+}
+.el23{
+    margin-left: 660px;
+    margin-top: 31px;
+}
+.el24{
+    margin-left: 445px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.el25{
+    margin-left: 403px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.el26{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.el27{
+    margin-left: 145px;
+}
+.el29{
+    margin-right: 
+}
