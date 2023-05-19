@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="./styles.css">
+    <title>проєкт</title>
+</head>
+<body>
+  <div class="block-1">
+    <a class="el-1" href="#">GPT-3</a>
+  </div>
+  <div class="block1">
+    <a href="#">Home</a>
+    <a href="#">What is GPT?</a>  
+    <a href="#">Open AI</a>  
+    <a href="#">Case Studies</a>  
+    <a href="#">Library</a>
+  </div>
+  <div class="block2">
+    <a href>Sign in</a>
+    <a href class="el1">Sign up</a>
+  </div>
+  <div class="block3">
+    <article>Let’s Build Something</article>
+    <article>amazing with GPT-3</article>  
+    <article>OpenAI</article>
+  </div>
+  <div class="block4">
+    <article>Yet bed any for travelling assistance indulgence unpleasing.</article> 
+    <article>Not thoughts all exercise blessing. Indulgence way</article> 
+    <article>everything joy alteration boisterous the attachment. Party</article> 
+    <article>we years to order allow asked of.
+    <p class="el2">Your Email Address</p>
+    <a class="el3" href="#">Get Started</a>
+  </div>
+  <div class="el4">
+    <p>1,600 people requested access a visit in last 24 hours</p>
+  </div>
+
+</body>
+</html>
+
