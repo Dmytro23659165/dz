@@ -8,25 +8,27 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./style.css">
     <title>проєкт</title>
 </head>
 <body>
-  <div class="el-1">
-    <a class="block1" href="#">MoGo</a>
-    <div class="el1">
-      <a href="#">ABOUT</a>
-      <a href="#">SERVICE</a>
-      <a href="#">WORK</a>
-      <a href="#">BLOG</a>
-      <a href="#">CONTACT</a>
+  
+    <div class="el-1">
+      <a class="block1" href="#">MoGo</a>
+      <div class="el1">
+        <a href="#">ABOUT</a>
+        <a href="#">SERVICE</a>
+        <a href="#">WORK</a>
+        <a href="#">BLOG</a>
+        <a href="#">CONTACT</a>
+      </div>
     </div>
-  </div> 
-   <div class="block2">
-    <p>
+
+   <div>
+    <p class="block2">
       We work with
     </p>
-    <p>
+    <p class="block13">
       Amazing Services
     </p>
   </div>
@@ -36,9 +38,10 @@
     <img src="./Group (1).png"></img>
   </div>
   <div class="el4">
-    <li>photography</li>
-    <li>photography</li>
-    <li>photography</li>
+    <p>photography</p>
+    <p>photography</p>
+    <p>photography</p>
+  </div>
   <div class="block3">
     <article>Lorem ipsum dolor sit amet, consectetur</article>
     <article>adipiscing elit, sed do eiusmod tempor.</article>
@@ -50,11 +53,11 @@
   
   
   
-  <div class="block2">
-    <p>
+  <div>
+    <p class="block2">
       Who we are
     </p>
-    <p>
+    <p class="block13">
       Meet our team
     </p>
   </div>
@@ -67,10 +70,11 @@
     <img src="./digital-marketing 1.png"></img>
   </div>
   <div class="el4">
-    <li>photography</li>
-    <li>photography</li>
-    <li>photography</li>
-  <div class="block3">
+    <p>photography</p>
+    <p>photography</p>
+    <p>photography</p>
+  </div>
+ <div class="block3">
     <article>Lorem ipsum dolor sit amet, consectetur</article>
     <article>adipiscing elit, sed do eiusmod tempor.</article>
     <article>Lorem ipsum dolor sit amet, consectetur</article>
@@ -96,9 +100,8 @@
   <div class="block6">
     <p>© 2016 MoGo free PSD template by Laaqiq</p>
   <div class="block7">
-    <a href="#">Your Email...</a>
-    <a href="#" class="block8">Subscribe</a>
-  </div>
+    <img src="./Vector 1.png"></img>
+    <img src="./button.png"></img>
   </div>  
 </body>
 </html>
