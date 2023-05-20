@@ -7,30 +7,31 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="./styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
     <title>проєкт</title>
 </head>
 <body>
-  <div class="block-1">
-    <a class="el-1" href="#">GPT-3</a>
-  </div>
   <div class="block1">
+    <a class="el-1" href="#">GPT-3</a>
+  <div class="block2">
     <a href="#">Home</a>
     <a href="#">What is GPT?</a>  
     <a href="#">Open AI</a>  
     <a href="#">Case Studies</a>  
     <a href="#">Library</a>
-  </div>
-  <div class="block2">
-    <a href>Sign in</a>
+    <a href class="el5">Sign in</a>
     <a href class="el1">Sign up</a>
   </div>
-  <div class="block3">
+  </div>
+  
+  </div>
+  <div class="block4">
     <article>Let’s Build Something</article>
     <article>amazing with GPT-3</article>  
     <article>OpenAI</article>
   </div>
-  <div class="block4">
+  <div class="block5">
     <article>Yet bed any for travelling assistance indulgence unpleasing.</article> 
     <article>Not thoughts all exercise blessing. Indulgence way</article> 
     <article>everything joy alteration boisterous the attachment. Party</article> 
@@ -40,8 +41,7 @@
   </div>
   <div class="el4">
     <p>1,600 people requested access a visit in last 24 hours</p>
-  </div>
-
+  
 </body>
-</html>
-
+</head>
+    
