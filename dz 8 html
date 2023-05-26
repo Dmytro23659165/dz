@@ -24,25 +24,22 @@
     <a href class="el1">Sign up</a>
   </div>
   </div>
-  </div>
-  <div class="block4">
-    <article>Let’s Build Something</article>
-    <article>amazing with GPT-3</article>  
-    <article>OpenAI</article>
+  <div class="block7">
+    <div class="block4">
+      <h3>Let’s Build Something</h3>
+      <h3>amazing with GPT-3</h3>  
+      <h3>OpenAI</h3>
+    </div>
     <img class="el6" src="./Illustration.png"></img>
   </div>
-  <div class="block7">
-    
-  </div>
   <div class="block5">
-    <article>Yet bed any for travelling assistance indulgence unpleasing.</article> 
-    <article>Not thoughts all exercise blessing. Indulgence way</article> 
-    <article>everything joy alteration boisterous the attachment. Party</article> 
-    <article>we years to order allow asked of.</article>
+    <h4 class="el7">Yet bed any for travelling assistance indulgence unpleasing.</h4> 
+    <h4 class="el8">Not thoughts all exercise blessing. Indulgence way</h4> 
+    <h4 class="el9">everything joy alteration boisterous the attachment. Party</h4> 
+    <h4 class="el10">we years to order allow asked of.</h4>
   </div>
   <div class="block6">
-    <p class="el2">Your Email Address</p>
-    <a class="el3" href="#">Get Started</a>
+    <img src="./Form.png"></img>
   </div>
   <div class="el4">
     <p>1,600 people requested access a visit in last 24 hours</p>
