@@ -12,37 +12,39 @@
     <title>проєкт</title>
 </head>
 <body>
-  <div class="block1">
-    <a class="el-1" href="#">GPT-3</a>
-  <div class="block2">
-    <a href="#">Home</a>
-    <a href="#">What is GPT?</a>  
-    <a href="#">Open AI</a>  
-    <a href="#">Case Studies</a>  
-    <a href="#">Library</a>
-    <a href class="el5">Sign in</a>
-    <a href class="el1">Sign up</a>
-  </div>
-  </div>
-  <div class="block7">
-    <div class="block4">
-      <h3>Let’s Build Something</h3>
-      <h3>amazing with GPT-3</h3>  
-      <h3>OpenAI</h3>
+  
+    <div class="block1">
+      <a class="el-1" href="#">GPT-3</a>
+    <div class="block2">
+      <ul class="block2">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">What is GPT?</a></li> 
+        <li><a href="#">Open AI</a></li>
+        <li><a href="#">Case Studies</a></li>  
+        <li><a href="#">Library</a></li>
+        <li><a href class="el5">Sign in</a></li>
+        <li><a href class="el1">Sign up</a></li>
+      </ul>
     </div>
-    <img class="el6" src="./Illustration.png"></img>
   </div>
-  <div class="block5">
-    <h4 class="el7">Yet bed any for travelling assistance indulgence unpleasing.</h4> 
-    <h4 class="el8">Not thoughts all exercise blessing. Indulgence way</h4> 
-    <h4 class="el9">everything joy alteration boisterous the attachment. Party</h4> 
-    <h4 class="el10">we years to order allow asked of.</h4>
-  </div>
-  <div class="block6">
-    <img src="./Form.png"></img>
-  </div>
-  <div class="el4">
-    <p>1,600 people requested access a visit in last 24 hours</p>
+      <div class="block7">
+        <div class="block4">
+          <h3 class="el15">Let’s Build Something
+            amazing with GPT-3 
+            OpenAI
+          </h3>
+        <div class="block5">
+          <p class="el7">Yet bed any for travelling assistance indulgence unpleasing. 
+            Not thoughts all exercise blessing. Indulgence way
+            everything joy alteration boisterous the attachment. Party 
+            we years to order allow asked of.</p>
+            <img class="image2" src="./Form.png"></img>
+        </div>
+      </div>
+        <img class="image" src="./Illustration.png"></img>
+      </div>
+      <div>
+        <img class="image3" src="./Signup.png"></img>
+      </div>
 </body>
 </head>
-    
