@@ -1,0 +1,50 @@
+.block1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.block2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.block3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.el2{
+    margin-top: 20px;
+}
+
+.nick{
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-right: 40px;
+}
+
+.text1{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.text2{
+    display: flex;
+    align-items: start;
+    font-size: 15px;
+}
+
+.el3{
+    
+}
+
+.el4{
+
+}
