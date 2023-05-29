@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>проєкт</title>
+</head>
+<body>
+  <div class="">
+    <ul class="block1">
+      <li><a href="#" class="el1">LIFESTYLE.svg"</a></li>
+      <li><a href="#">PHOTODIARY.svg"</a></li>
+      <li><a href="#">MUSIC.svg"</a></li>
+      <li><a href="#">TRAVEL.svg"</a></li>
+    </ul>
+  </div>
+  <div class="block2">
+      <img src="./1 1.png"></img>
+      <img src="./2 1.png"></img>
+  </div>
+  <div class="nick">
+      <p class="el3">LIFESTYLE</p>
+      <p class="el4">LIFESTYLE</p>
+    </div>
+    <ul class="name">
+      <li>More than just a music festival</li>
+      <li>Life tastes better with coffee</li>
+    </ul>
+  <div class="text1">
+      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</li>
+      <p>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>   
+      <P>Ut enim ad minim veniam, quis nostrud exercitation ullamco</P>   
+      <P>laboris nisi ut aliquip ex ea.</p>  
+
+  <div class="text2">
+        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</li>
+        <p>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>   
+        <P>Ut enim ad minim veniam, quis nostrud exercitation ullamco</P>   
+        <P>laboris nisi ut aliquip ex ea.</p>  
+  </div>
+</div>
+  <div>
+    <ul class="text">
+      
+    </ul>
+  </div>
+  </div>
+  <div class="block3">
+      <img src="./3 1.png"></img>
+      <img src="./4 1.png"></img>
+  </div>
+  <div class="nick">
+    <p class="el3">PHOTODAIRY</p>
+    <p class="el4">PHOTODAIRY</p>
+  </div>
+  <ul class="name">
+    <li>American dream</li>
+    <li>A day exploring the Alps</li>
+  </ul>
+<div class="text1">
+    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</li>
+    <p>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>   
+    <P>Ut enim ad minim veniam, quis nostrud exercitation ullamco</P>   
+    <P>laboris nisi ut aliquip ex ea.</p>  
+
+<div class="text2">
+      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</li>
+      <p>eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>   
+      <P>Ut enim ad minim veniam, quis nostrud exercitation ullamco</P>   
+      <P>laboris nisi ut aliquip ex ea.</p>  
+</div>
+</div>
+</body>
+</html>
