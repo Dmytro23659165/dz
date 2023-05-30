@@ -1,0 +1,45 @@
+p{
+    font-family: 'Poltawski Nowy', serif;
+}
+.el1{
+    margin: 60px;
+    margin-inline: 100px;
+    color:rgb(0, 155, 155);
+    font-size: 25px;
+}
+.el2{
+    margin-left: 290px;
+    margin-top: 25px;
+    font-size: 18px;
+    color: rgb(255, 72, 0);
+}
+
+.el3{
+    display: flex;
+    justify-content: space-around;
+}
+.el4{
+    display: flex;
+    justify-content: space-around;
+}
+.block2{
+    display: flex;
+    justify-content: space-around;
+}
+.el5{
+    width: 40px;
+    height: 40px;
+}
+.text{
+    display: flex;
+    justify-content: space-between;
+}
+.block3{
+    display: flex;
+    justify-content: space-between;
+}
+.block4{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+}
