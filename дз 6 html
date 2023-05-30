@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital,wght@1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>проєкт</title>
+</head>
+<body>
+  <div class="block1">
+    <a href class="el1">MoGo</a>
+    <a href class="el2">ABOUT</a>
+    <a href>SERVICE</a>
+    <a href>WORK</a>
+    <a href>BLOG</a>
+    <a href>CONTACT</a>
+  </div>
+  <div>
+    <p class="el3">
+      We work with
+    </p>
+  </div>
+  <div>    
+    <p class="el4">
+      Amazing Services
+    </p>
+  </div>
+  <div class="block2">
+    <img class="el5" src="./Group (2).png"></img>
+    <p class="el9">photography</p>
+
+    <img class="el5" src=".//Group.png"></img>
+    <p class="el9">photography</p>
+
+    <img class="el5" src="./Group (1).png"></img>
+    <p class="el6">photography</p>
+  </div>
+  <div>
+  <div class="text">
+    <article>Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit, sed do eiusmod tempor.</article>
+
+    <article>Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit, sed do eiusmod tempor.</article>
+
+    <article>Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit, sed do eiusmod tempor.</article>
+  </div>
+    
+
+<div class="block2">
+  <img class="el5" src="./line icons.png"></img>
+  <p class="el9">photography</p>
+
+  <img class="el5" src="./Group (3).png"></img>
+  <p class="el9">photography</p>
+
+  <img class="el5" src="./digital-marketing 1.png"></img>
+  <p class="el6">photography</p>
+</div>
+<div>
+<div class="text">
+  <article>Lorem ipsum dolor sit amet, consectetur
+  adipiscing elit, sed do eiusmod tempor.</article>
+
+  <article>Lorem ipsum dolor sit amet, consectetur
+  adipiscing elit, sed do eiusmod tempor.</article>
+
+  <article>Lorem ipsum dolor sit amet, consectetur
+  adipiscing elit, sed do eiusmod tempor.</article>
+</div>
+
+<p class="el3">
+  Who we are
+</p>
+</div>
+<div>
+<p class="el4">
+  Meet our team
+</p>
+</div>
+
+
+  <div class="block3">
+    <img class="el28" src="./first-man 1.png"></img>
+    <img class="el29" src="./second-man 1.jpg"></img>
+    <img class="el30" src="./third-man 1.png"></img>
+  </div>
+  <div class="block4">
+    <p class="31">Matthew Dix</p>
+    <article class="32"></article>
+    
+    <p class="33">Christopher Campbell</p>
+    <article class="34"></article>
+    
+    <p class="35">Michael Fertig </p>
+    <article class="36"></article>
+  </div>
+  
+</body>
+</html>
