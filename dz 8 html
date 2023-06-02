@@ -12,39 +12,38 @@
     <title>проєкт</title>
 </head>
 <body>
-  
     <div class="block1">
-      <a class="el-1" href="#">GPT-3</a>
-    <div class="block2">
-      <ul class="block2">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">What is GPT?</a></li> 
-        <li><a href="#">Open AI</a></li>
-        <li><a href="#">Case Studies</a></li>  
-        <li><a href="#">Library</a></li>
-        <li><a href class="el5">Sign in</a></li>
-        <li><a href class="el1">Sign up</a></li>
-      </ul>
+        <a class="el-1" href="#">GPT-3</a>
+      <div class="block2">
+        <ul class="block2">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">What is GPT?</a></li> 
+          <li><a href="#">Open AI</a></li>
+          <li><a href="#">Case Studies</a></li>  
+          <li><a href="#">Library</a></li>
+          <li><a href class="el5">Sign in</a></li>
+          <li><a href class="el1">Sign up</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
-      <div class="block7">
-        <div class="block4">
-          <h3 class="el15">Let’s Build Something
-            amazing with GPT-3 
-            OpenAI
-          </h3>
-        <div class="block5">
-          <p class="el7">Yet bed any for travelling assistance indulgence unpleasing. 
-            Not thoughts all exercise blessing. Indulgence way
-            everything joy alteration boisterous the attachment. Party 
-            we years to order allow asked of.</p>
-            <img class="image2" src="./Form.png"></img>
+        <div class="block7">
+          <div class="block4">
+            <h3 class="el15">Let’s Build Something
+              amazing with GPT-3 
+              OpenAI
+            </h3>
+          <div class="block5">
+            <p class="el7">Yet bed any for travelling assistance indulgence unpleasing. 
+              Not thoughts all exercise blessing. Indulgence way
+              everything joy alteration boisterous the attachment. Party 
+              we years to order allow asked of.</p>
+              <img class="image2" src="./Form.png"></img>
+          </div>
         </div>
-      </div>
-        <img class="image" src="./Illustration.png"></img>
-      </div>
-      <div>
-        <img class="image3" src="./Signup.png"></img>
-      </div>
+          <img class="image" src="./Header Illustration.png"></img>
+        </div>
+        <div>
+          <img class="image3" src="./Signup.png"></img>
+        </div>
 </body>
-</head>
+</html>
